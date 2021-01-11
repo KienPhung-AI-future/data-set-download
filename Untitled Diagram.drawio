@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-11T13:22:44.161Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="fLc1sf9CQVSkAcjRrm7P" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-11T13:24:42.114Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Ha08kjbEGA-FAgW_006e" version="14.1.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2732" dy="952" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -181,6 +181,9 @@
         </mxCell>
         <mxCell id="UkkpwHvBOogDypLoXUPN-4" value="phần mở rộng :&amp;nbsp;&lt;br&gt;+có thể gửi thông tin qua sms hoặc email&lt;br&gt;+có loa để thông báo,chào hỏi&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="957.5" width="182.5" height="182.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UkkpwHvBOogDypLoXUPN-5" value="sử dụng landmark hoặc deepface để có độ chính xác cao cần lưu&amp;nbsp; lý về độ sáng và tốc độ tính toán" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-10" y="240" width="130" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
